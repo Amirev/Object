@@ -6,8 +6,6 @@ import os
 #import tensorflow as tf
 #import tensorflow_hub as hub
 import time ,sys
-from streamlit_embedcode import github_gist
-github_gist("https://gist.github.com/randyzwitch/be8c5e9fb5b8e7b046afebcac12e5087/")
 import urllib.request
 import urllib
 import moviepy.editor as moviepy
